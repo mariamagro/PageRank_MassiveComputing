@@ -1,5 +1,9 @@
 # PageRank algorithm
-In collaboration with [alexgaarciia](https://github.com/alexgaarciia)
+
+### In collaboration with [alexgaarciia](https://github.com/alexgaarciia)
+### Subject: Massive Computing
+### Final grade: 10/10
+
 ## What is PageRank?
 The PageRank algorithm is a technique used by web search engines to rank web pages in their search results. It was named after Larry Page, one of the founders of Google, and is used to estimate the importance of website pages. In order to understand this algorithm in depth, there are some definitions that must be grasped:
 
